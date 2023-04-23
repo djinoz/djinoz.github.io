@@ -1,3 +1,14 @@
+---
+layout: post
+title: Don't eat angry 
+subtitle: Eating when angry can have several potential health risks, both physical and psychological
+cover-img: http://parentingsquad.com/files/parentingsquad.com/styles/605x340/public/blog-images/angry-kid-eating-178534101-small.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [article, first-bite, health]
+---
+
+
 Eating when angry can have several potential health risks, both physical and psychological:
 
 1. **Overeating**: When you're angry or upset, you may be more likely to engage in emotional eating, consuming larger portions or choosing unhealthy foods to cope with your emotions. Over time, emotional eating can contribute to weight gain and other health issues.
