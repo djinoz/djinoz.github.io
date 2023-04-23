@@ -2,8 +2,8 @@
 layout: post
 title: Benefits of Stopping Eating Before Feeling Full
 subtitle: why undereating may be good for you
-cover-img: https://images.pexels.com/photos/858508/pexels-photo-858508.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2
-thumbnail-img: /assets/img/thumb.png
+cover-img: https://images.pexels.com/photos/858508/pexels-photo-858508.jpeg
+thumbnail-img: https://images.pexels.com/photos/858508/pexels-photo-858508.jpeg
 share-img: /assets/img/path.jpg
 tags: [books, first-bite, health]
 ---

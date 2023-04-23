@@ -3,7 +3,7 @@ layout: post
 title: If you are driving - don't eat, if you are eating don't drive!
 subtitle: a short story about my friend Mark and his family and his car and his body
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [story, first-bite, health, stress]
 ---

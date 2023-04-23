@@ -3,7 +3,7 @@ layout: post
 title: Don't eat angry 
 subtitle: Eating when angry can have several potential health risks, both physical and psychological
 cover-img: http://parentingsquad.com/files/parentingsquad.com/styles/605x340/public/blog-images/angry-kid-eating-178534101-small.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img:http://parentingsquad.com/files/parentingsquad.com/styles/605x340/public/blog-images/angry-kid-eating-178534101-small.jpg
 share-img: /assets/img/path.jpg
 tags: [article, first-bite, health]
 ---
