@@ -34,7 +34,7 @@ navbar-links:
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/assets/img/first bite logo.jpg"
 
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+#By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
@@ -53,15 +53,15 @@ social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: djinoz
   twitter: djinoz
-  # patreon: DeanAttali
-  # youtube: c/daattali
+# patreon: DeanAttali
+# youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: "be.positive.22"
+  instagram: "be.positive.22"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
