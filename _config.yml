@@ -49,7 +49,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  #email: first-bite@prismism.com
+  email: "first-bite@prismism.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: djinoz
   twitter: djinoz
@@ -61,7 +61,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: be.positive.22
+   instagram: "be.positive.22"
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
