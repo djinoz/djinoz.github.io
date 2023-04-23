@@ -1,3 +1,13 @@
+---
+layout: post
+title: Eating and loneliness
+subtitle: Eating is often an antidote to sadness or loneliness
+cover-img: https://www.wellandgood.com/wp-content/uploads/2020/11/GettyImages-being-alone-and-being-lonely-Oscar-Wong.jpg
+thumbnail-img: https://www.wellandgood.com/wp-content/uploads/2020/11/GettyImages-being-alone-and-being-lonely-Oscar-Wong.jpg
+share-img: /assets/img/path.jpg
+tags: [article, health]
+---
+
 Eating to overcome feelings of sadness or loneliness may seem like a quick fix, but it can lead to several disadvantages over time. One potential drawback is the development of emotional eating habits. Emotional eating is when a person consumes food as a way to cope with negative emotions rather than in response to genuine hunger. This pattern of behavior can create an unhealthy relationship with food and make it more difficult to identify and address the root causes of sadness and loneliness. [Reference](https://doi.org/10.1016/j.appet.2011.04.010)
 
 Another disadvantage of eating to cope with sadness and loneliness is the tendency to make less healthy food choices. Comfort foods, which are often high in fat, sugar, and calories, tend to be the go-to options when eating for emotional reasons. Consuming these types of foods regularly can contribute to weight gain and increase the risk of developing obesity and related health issues such as heart disease, type 2 diabetes, and certain types of cancer. [Reference](https://doi.org/10.1093/nutrit/nuw054)
