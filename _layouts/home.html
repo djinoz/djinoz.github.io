@@ -5,7 +5,7 @@ layout: page
 {{ content }}
 <!-- <center><button style="background-color:black"><a class="button" style="color:white;" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Request the Book</a></button></center>
 -->
-<center><a class="btn btn-success btn-lg" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Request the Book</a></center>
+<center><a style="font-family:Avenir Next" class="btn btn-info" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Request the Book</a></center>
 
 {% assign posts = paginator.posts | default: site.posts %}
 
@@ -41,13 +41,14 @@ layout: page
 
       <a href="{{ post.url | absolute_url }}">
         <h2 class="post-title">{{ post.title | strip_html }}</h2>
+      </a>
 
         {% if post.subtitle %}
-          <h3 class="post-subtitle">
+          <!-- <h3 class="post-subtitle"> -->
+          <h4 class="post-subtitle">
           {{ post.subtitle | strip_html }}
-          </h3>
+          </h4>
         {% endif %}
-      </a>
 
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}

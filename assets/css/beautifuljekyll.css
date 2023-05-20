@@ -192,7 +192,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 800;
+  font-weight: 600;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -485,7 +485,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-subtitle {
   margin: 0;
-  font-weight: 300;
+  font-weight: 150;
   margin-bottom: 0.625rem;
 }
 .post-preview .post-meta,
