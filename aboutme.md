@@ -4,47 +4,27 @@ title: About FIRST BITE
 subtitle: Fall in love with your food
 ---
 
-FIRST BITE is a non-profit project to encourage us all to increase our gratitude and enjoyment of the food we are lucky enough to receive.
 
-We wrote the <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Book</a> initially as a reminder to ourselves and some science and exercises to experiment.
+FIRST BITE is a non-profit project to encourage us all to increase our gratitude and enjoyment of the food we are lucky enough to eat. We wrote the <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Book</a> initially as a reminder to ourselves, included some exercises that we found particularly helpful and added some science to back it up.
 
-The most interesting part is the challenge of social awkwardness.
+FIRST BITE is a simple call-to-action to start each and every meal with three mindful bites, and observe the contribution to your life and others around you. Interestingly, a major challenge is social awkwardness. Anything that calls a halt to a social gathering these days can be awkward, even if it’s for just a moment.
 
-- Why is saying "Grace" so rare these days?
-- Why are we afraid to simply stop? 
-- What kind of society thinks gratitude is unhip?
+Encouraging a small quiet moment at the beginning of a meal to say Grace, make a toast, or thank the hosts all seems quite acceptable. To simply stop and take a breath, to have a quiet moment of gratitude, to share this with friends and family can seem daunting and awkward.
 
-So we thought having <a target="_blank" href="https://prismism.com/graphic-design/">place cards</a> and drink coasters is an invite that people can choose to accept.
-
+As an icebreaker and a conversation prompt, we devised <a target="_blank" href="https://prismism.com/graphic-design/">place cards</a> and drink coasters as an invition that people can choose to accept.
 
 ### Our Mission
 
-Its a bit like the **"Slow Food Movement"**: 
 
-  * if we can convert one or two people, 
+It's a bit like any Slow Movement. Word of mouth is the key.
+  * If we can convert one or two people,
     * then they might convert one or two people,
       * then they might convert one or two people,
-        * then they might convert one or two people.....you get the idea...
+        * then they might convert one or two people…..you get the idea…
 
-<!-- -->
+Stop and savour. Enjoy your first bite, and your second, and your third, …
 
-* Bon Appetite!
-* Enjoy your meal.
-* Dig in and savor.
-* May your taste buds rejoice.
-* Have a wonderful dining experience.
-* Wishing you a delicious feast.
-* Happy eating and bon voyage.
-* It's time to tuck in and relish.
-* Buen provecho (Spanish for "enjoy your meal").
-* Guten Appetit (German for "enjoy your meal").
-* Buon appetito (Italian for "enjoy your meal").
-* Smaklig måltid (Swedish for "enjoy your meal").
-* Selamat makan (Indonesian/Malay for "enjoy your meal").
-* 食飯 (shí fàn) or "Mangez bien" (Chinese for "eat well").
-* Приятного аппетита (priyatnogo appetita) (Russian for "enjoy your meal").
-* بالهناء والشفاء (bil-hanā' wa ash-shifā) (Arabic for "with pleasure and good health").
-* Afiyet olsun (Turkish for "may it be delicious").
-* Dobrou chuť (Czech/Slovak for "good appetite").
-* Dobar tek (Serbian/Croatian for "enjoy your meal").
-* Hyvää ruokahalua (Finnish for "enjoy your meal").
+Bon Appetite! Buen provecho. Guten Appetit. Buon appetito. Smaklig måltid. Selamat makan. 
+食飯 (shí fàn). Mangez bien. Приятного аппетита. بالهناء والشفاء (bil-hanā’ wa ash-shifā). 
+Afiyet olsun. Dobrou chuť. Dobar tek. Hyvää ruokahalua.
+
