@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About FIRST BITE
-subtitle: Why you'd want to go on a date with me
+subtitle: Fall in love with your food
 ---
 
 FIRST BITE is a non-profit project to encourage us all to increase our gratitude and enjoyment of the food we are lucky enough to receive.
@@ -26,6 +26,7 @@ Its a bit like the **"Slow Food Movement"**:
       * then they might convert one or two people,
         * then they might convert one or two people.....you get the idea...
 
+<!-- -->
 
 * Bon Appetite!
 * Enjoy your meal.
