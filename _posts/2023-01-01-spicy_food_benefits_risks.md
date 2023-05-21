@@ -1,4 +1,11 @@
-# Benefits and Risks of Eating Spicy Food
+---
+layout: post
+title: Benefits and Risks of Eating Spicy Food
+subtitle: how much is OK? who should be conservative?
+cover-img: /assets/img/a_table_full_of_chilli_and_a_young_man_and_a_woman_.png 
+thumbnail-img: /assets/img/a_table_full_of_chilli_and_a_young_man_and_a_woman_.png 
+tags: [article, first-bite, health]
+---
 
 ## Benefits
 

@@ -1,5 +1,3 @@
-# Benefits and Risks of Eating Spicy Food
-
 ---
 layout: post
 title: Benefits and Risks of Eating Spicy Food
