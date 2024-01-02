@@ -5,7 +5,7 @@ subtitle: Fall in love with your food
 ---
 
 
-FIRST BITE is a non-profit project to encourage us all to increase our gratitude and enjoyment of the food we are lucky enough to eat. We wrote the <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScc34wo93rlGqWYoCCx3uEecI4ZMyQ-sNfnbLa31DEGNPqyyw/viewform?vc=0&c=0&w=1&flr=0">Book</a> initially as a reminder to ourselves, included some exercises that we found particularly helpful and added some science to back it up.
+FIRST BITE is a non-profit project to encourage us all to increase our gratitude and enjoyment of the food we are lucky enough to eat. We wrote the <a target="_blank" href="https://a.co/d/hD0O5lF">Book</a> initially as a reminder to ourselves, included some exercises that we found particularly helpful and added some science to back it up.
 
 FIRST BITE is a simple call-to-action to start each and every meal with three mindful bites, and observe the contribution to your life and others around you. Interestingly, a major challenge is social awkwardness. Anything that calls a halt to a social gathering these days can be awkward, even if it’s for just a moment.
 
