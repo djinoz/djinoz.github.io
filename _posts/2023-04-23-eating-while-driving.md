@@ -20,7 +20,7 @@ These small tweaks really changed the game for him. Mark found that he could foc
 
 Mark's experience made him reconsider the importance of health and safety over convenience. Now, he's all about encouraging mindful eating and safe driving habits, and he's inspired some of us to make changes in our lives too. The takeaway here is that sometimes a little shift in our daily routine can lead to a better quality of life—minus the cheese factor.
 
-**How about a bit of science**
+**How about a bit of science?**
 
 Here are some scientific references for the long-term risks associated with eating while driving in Markdown format:
 
